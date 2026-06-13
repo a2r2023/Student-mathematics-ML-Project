@@ -63,7 +63,6 @@ This shows a strong relationship between selected features and math score.
 
 * Python
 * Pandas
-* NumPy
 * Matplotlib
 * Scikit-learn
 
