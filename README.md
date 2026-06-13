@@ -91,4 +91,4 @@ This shows a strong relationship between selected features and math score.
 
 ## 👨‍💻 Author
 
-Beginner Machine Learning Project for learning and practice purposes.
+Hrishabh Roy of class 9 India
