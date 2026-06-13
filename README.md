@@ -83,7 +83,6 @@ This shows a strong relationship between selected features and math score.
 
 ## 📌 Future Improvements
 
-* Try Random Forest / XGBoost models
 * Add more feature engineering
 * Deploy as a small web app
 * Improve generalization on unseen data
